@@ -1,2 +1,2 @@
-# hello-world-of-wxc
+# hello-world-of-wxc(js)
 Just some records and exercises
