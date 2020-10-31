@@ -1,0 +1,14 @@
+<!doctype>
+<html>
+<head><title>JavaScript输出数据的四种方式</title></head>
+<body>
+<p>欢迎来到Github</p>
+<p id="demo"><p>
+<script>
+window.alert("Welcome to Github!!!");//第一种
+document.write("Are you ready?");//第二种
+document.getElementById("demo").innerHTML="Start your new journey";//第三种
+console.log=(Date());//第四种
+</script>
+</body>
+</html>
